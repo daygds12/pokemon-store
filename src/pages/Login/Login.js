@@ -6,7 +6,7 @@ export default function Login() {
 
     return (
         <div>Login</div>
-        <p>Acessar</p>
+    
     );
 
 }
